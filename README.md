@@ -13,4 +13,4 @@ string pass = Encrypt.GenerateHash("test", Encrypt.EncodingType.HEX, Encrypt.Alg
 
 
 
-![](http://visit.parselecom.com/Api/Visit/15/4A192C)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/Cryptography/4A192C)
